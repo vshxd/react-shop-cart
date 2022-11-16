@@ -1,26 +1,26 @@
 [
     {
       "id": 1,
-      "name": "Book",
-      "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "name": "Faceless Void",
+      "price": 34.99,
+      "imgUrl": "/imgs/void.jpg"
     },
     {
       "id": 2,
-      "name": "Computer",
-      "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "name": "Phantom Assasin",
+      "price": 34.99,
+      "imgUrl": "/imgs/pa.jpg"
     },
     {
       "id": 3,
-      "name": "Banana",
-      "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "name": "Pudge",
+      "price": 999999.99,
+      "imgUrl": "/imgs/pudge.jpg"
     },
     {
       "id": 4,
-      "name": "Car",
-      "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "name": "Juggernaut",
+      "price": 99999.99,
+      "imgUrl": "/imgs/jug.jpg"
     }
   ]
