@@ -14,13 +14,91 @@
     {
       "id": 3,
       "name": "Pudge",
-      "price": 999999.99,
+      "price": 34.99,
       "imgUrl": "/imgs/pudge.jpg"
     },
     {
       "id": 4,
       "name": "Juggernaut",
-      "price": 99999.99,
+      "price": 34.99,
       "imgUrl": "/imgs/jug.jpg"
-    }
+    },
+    {
+        "id": 5,
+        "name": "Spectre",
+        "price": 34.99,
+        "imgUrl": "/imgs/spectre.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Papich",
+        "price": 34.99,
+        "imgUrl": "/imgs/wk.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Zeus",
+        "price": 34.99,
+        "imgUrl": "/imgs/zeus.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Shadow Fiend",
+        "price": 34.99,
+        "imgUrl": "/imgs/sf.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Queen of Pain",
+        "price": 34.99,
+        "imgUrl": "/imgs/qop.jpg"
+      },
+      {
+          "id": 10,
+          "name": "Earthshaker",
+          "price": 34.99,
+          "imgUrl": "/imgs/shaker.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Rubick",
+          "price": 34.99,
+          "imgUrl": "/imgs/rubick.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Windranger",
+          "price": 34.99,
+          "imgUrl": "/imgs/wr.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Crystal Maiden",
+          "price": 34.99,
+          "imgUrl": "/imgs/cm.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Legion Commander",
+            "price": 34.99,
+            "imgUrl": "/imgs/lc.jpg"
+          },
+          {
+            "id": 15,
+            "name": "Terrorblade",
+            "price": 34.99,
+            "imgUrl": "/imgs/tb.jpg"
+          },
+          {
+              "id": 16,
+              "name": "Ogre Magi",
+              "price": 34.99,
+              "imgUrl": "/imgs/ogre.jpg"
+            },
+            {
+              "id": 17,
+              "name": "Wisp",
+              "price": 34.99,
+              "imgUrl": "/imgs/io.jpg"
+            }
   ]
